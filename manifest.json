@@ -1,0 +1,46 @@
+{
+  "id": "shenye_shudong",
+  "title": "深夜树洞：写给年轻人的解忧回信",
+  "author": "本书编委会",
+  "category": "psyche",
+  "audio_dir": "shenye_shudong",
+  "repo": "wilson2000go/shenye-shudong-audiobook",
+  "tracks": [
+    {
+      "index": 1,
+      "title": "我：拥有面对真实自我的勇气",
+      "file": "audio/shenye_shudong/01_第1章_我_拥有面对真实自我的勇气.mp3",
+      "duration": 1334
+    },
+    {
+      "index": 2,
+      "title": "他：不迷失在形形色色的关系中",
+      "file": "audio/shenye_shudong/02_第2章_他_不迷失在形形色色的关系中.mp3",
+      "duration": 1069
+    },
+    {
+      "index": 3,
+      "title": "家：家本该是累了最想回去的地方",
+      "file": "audio/shenye_shudong/03_第3章_家_家本该是累了最想回去的地方.mp3",
+      "duration": 1498
+    },
+    {
+      "index": 4,
+      "title": "爱：我们常常渴望爱，又怕失去爱",
+      "file": "audio/shenye_shudong/04_第4章_爱_我们常常渴望爱_又怕失去爱.mp3",
+      "duration": 1962
+    },
+    {
+      "index": 5,
+      "title": "业：在学习和工作中找寻自己的价值和位置",
+      "file": "audio/shenye_shudong/05_第5章_业_在学习和工作中找寻自己的价值和位置.mp3",
+      "duration": 1285
+    },
+    {
+      "index": 6,
+      "title": "时：滴滴答答的时光中，你想留下什么",
+      "file": "audio/shenye_shudong/06_第6章_时_滴滴答答的时光中_你想留下什么.mp3",
+      "duration": 1340
+    }
+  ]
+}
